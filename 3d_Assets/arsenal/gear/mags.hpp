@@ -71,12 +71,16 @@ _mags = [
 
 //RHS Items
   //5.56
-    "rhs_mag_30Rnd_556x45_M855A1_Stanag_Pull",
-    "rhs_mag_30Rnd_556x45_M855A1_Stanag_Pull_Tracer_Red",
     "rhs_mag_30Rnd_556x45_M855A1_PMAG",
     "rhs_mag_30Rnd_556x45_M855A1_PMAG_Tan",
     "rhs_mag_30Rnd_556x45_M855A1_PMAG_Tracer_Red",
     "rhs_mag_30Rnd_556x45_M855A1_PMAG_Tan_Tracer_Red",
+    "rhs_mag_30Rnd_556x45_M855A1_EPM_Pull",
+    "rhs_mag_30Rnd_556x45_M855A1_EPM_Pull_Tracer_Red",
+    "rhs_mag_30Rnd_556x45_M855A1_EPM_Ranger",
+    "rhs_mag_30Rnd_556x45_M855A1_EPM_Ranger_Tracer_Red",
+    "rhs_mag_30Rnd_556x45_M855A1_EPM",
+    "rhs_mag_30Rnd_556x45_M855A1_EPM_Tracer_Red",
     "rhsusf_100Rnd_556x45_M995_soft_pouch",
     "rhsusf_100Rnd_556x45_M995_soft_pouch_ucp",
     "rhsusf_100Rnd_556x45_M995_soft_pouch_coyote",
@@ -84,6 +88,7 @@ _mags = [
     "rhsusf_200Rnd_556x45_soft_pouch",
     "rhs_200Rnd_556x45_T_SAW",
     "rhs_200rnd_556x45_M_SAW",
+
   //MP7
     "rhsusf_mag_40Rnd_46x30_FMJ",
     "rhsusf_mag_40Rnd_46x30_JHP",
