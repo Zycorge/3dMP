@@ -51,7 +51,7 @@ _crate addItemCargoGlobal ["ACM_Syringe_3", 6];
 _crate addItemCargoGlobal ["ACM_Syringe_1", 12];
 
 //Meds
-_crate addItemCargoGlobal [ACM_Paracetamol"", 15];
+_crate addItemCargoGlobal ["ACM_Paracetamol", 15];
 _crate addItemCargoGlobal ["ACM_Lozenge_Fentanyl", 6];
 _crate addItemCargoGlobal ["ACM_Spray_Naloxone", 6];
 _crate addItemCargoGlobal ["ACM_Vial_Atropine", 6];
