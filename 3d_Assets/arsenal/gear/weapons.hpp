@@ -99,7 +99,7 @@ _weapons = [
     "rhs_weap_XM2010_d",
     "rhs_weap_XM2010_sa",
   //M14EBR
-    "rhs_weap_m14ebrri",
+    //"rhs_weap_m14ebrri",
   //Javelin
     "rhs_weap_fgm148",
   //M3 MAAWS
@@ -176,6 +176,8 @@ _weapons = [
     "rhs_weap_mk18_KAC",
     "rhs_weap_mk18_urgi",
     "rhs_weap_mk18_urgi_kac",
+  //240
+    "rhs_weap_m240G",
   //249 SAW
     "rhs_weap_m249",
     "rhs_weap_m249_pip_L",

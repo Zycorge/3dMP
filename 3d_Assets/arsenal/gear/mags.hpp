@@ -85,7 +85,11 @@ _mags = [
     "rhsusf_100Rnd_556x45_M995_soft_pouch_ucp",
     "rhsusf_100Rnd_556x45_M995_soft_pouch_coyote",
     "rhsusf_100Rnd_556x45_soft_pouch",
+    "rhsusf_100Rnd_556x45_soft_pouch_coyote",
+    "rhsusf_100Rnd_556x45_soft_pouch_ucp",
     "rhsusf_200Rnd_556x45_soft_pouch",
+    "rhsusf_200Rnd_556x45_soft_pouch_coyote",
+    "rhsusf_200Rnd_556x45_soft_pouch_ucp",
     "rhs_200Rnd_556x45_T_SAW",
     "rhs_200rnd_556x45_M_SAW",
 
@@ -137,6 +141,10 @@ _mags = [
     "rhs_mag_20Rnd_Scar_762x51_mk316_special_bk",
     "rhs_mag_20Rnd_SCAR_762x51_m80a1_epr_bk",
     "rhs_mag_20Rnd_SCAR_762x51_m80a1_epr",
+    "rhsusf_50Rnd_762x51_m61_ap",
+    "rhsusf_50Rnd_762x51_m62_tracer",
+    "rhsusf_50Rnd_762x51",
+    "rhsusf_50Rnd_762x51_m80a1epr",
     "rhsusf_100Rnd_762x51",
     "rhsusf_100Rnd_762x51_m993",
     "rhsusf_100Rnd_762x51_m61_ap",
@@ -200,6 +208,16 @@ _mags = [
 
 //TierOne
   "Tier1_20Rnd_762x51_M80A1_EPR_SR25_Mag",
+  "Tier1_100Rnd_762x51_Belt_M61_AP",
+  "Tier1_100Rnd_762x51_Belt_M62_Tracer",
+  "Tier1_100Rnd_762x51_Belt_M80",
+  "Tier1_100Rnd_762x51_Belt_M80A1_EPR",
+  "Tier1_100Rnd_762x51_Belt_M993_AP",
+  "Tier1_250Rnd_762x51_Belt_M61_AP",
+  "Tier1_250Rnd_762x51_Belt_M62_Tracer",
+  "Tier1_250Rnd_762x51_Belt_M80",
+  "Tier1_250Rnd_762x51_Belt_M80A1_EPR",
+  "Tier1_250Rnd_762x51_Belt_M993_AP",
 
 //CSW
   "ace_csw_100Rnd_127x99_mag",
