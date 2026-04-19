@@ -132,6 +132,7 @@ _items = [
   "tsp_breach_stick_mag",
   "tsp_breach_shock",
   "tsp_sling",
+  "tsp_sling_lanyard",
 
 // Chemical Warfare (Delete if not causing issues)
   /*"U_mas_usl_B_suite_VEG",
